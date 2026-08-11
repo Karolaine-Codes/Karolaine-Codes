@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá! Eu sou Karolaine Sampaio
 
-<!--
-**Karolaine-Codes/Karolaine-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de Inteligência Artificial e estou construindo minha carreira na área de tecnologia. Tenho interesse em aprender continuamente, desenvolver projetos práticos e aprimorar meus conhecimentos em programação, Inteligência Artificial e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estudo
+
+- Python
+- Git e GitHub
+- Lógica de Programação
+- Inteligência Artificial
+- Machine Learning
+- Sistemas Inteligentes
+
+## Objetivos
+
+- Aprimorar minhas habilidades em desenvolvimento de software.
+- Construir projetos práticos para meu portfólio.
+- Desenvolver soluções utilizando Inteligência Artificial.
+- Conquistar minha primeira oportunidade na área de tecnologia.
+
+## Projetos
+
+- Sistema de Gestão de Processos Digitais (Projeto Acadêmico)
+- Projetos desenvolvidos durante a graduação em Inteligência Artificial
+- Exercícios e práticas em Python
+
+## Atualmente estudando
+
+- Python
+- Machine Learning
+- Git e GitHub
+- Sistemas Inteligentes
+
+## Vamos nos conectar!
+
+Estou sempre aberta a aprender, compartilhar conhecimentos e trocar experiências com profissionais da área de tecnologia.
