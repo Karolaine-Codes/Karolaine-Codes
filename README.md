@@ -4,8 +4,6 @@
 
 Sou estudante de Inteligência Artificial e estou construindo minha trajetória na área de tecnologia por meio de estudos, projetos práticos e desenvolvimento contínuo.
 
-Meu objetivo é transformar conhecimentos em soluções reais, evoluindo principalmente em **Python, Inteligência Artificial, Machine Learning e Sistemas Inteligentes**.
-
 ---
 
 ## 🚀 Sobre mim
